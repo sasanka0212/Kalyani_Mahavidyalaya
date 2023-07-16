@@ -1,0 +1,25 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">Kalyani Mahavidyalaya</string>
+
+    <string name="bold" tools:ignore="ReferenceType">@font/latobold</string>
+    <string name="regular" tools:ignore="ReferenceType">@font/latoregular</string>
+    <string name="light" tools:ignore="ReferenceType">@font/latolight</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="start">Start</string>
+    <string name="close">Close</string>
+
+    <string name="about_clg">Kalyani was established in 1999 as a satellite Town about 48 kilometers north of Kolkata. Designed to become an educational and industrial hub, Kalyani was affectionately called the dream-child of Dr. Bidhan Chandra Roy, the then Chief Minister of West Bengal. Though two Universities, two engineering colleges and a good number of regional and state level institutions and a number of excellent schools are located in Kalyani, there was no degree college in the town. Kalyani Mahavidyalaya was established in 1999 to cater not only to the needs of Kalyani, but also the vast areas in Nadia, Hooghly and North 24 Parganas.</string>
+    <string name="clg_address">City Centre Complex, PO: Kalyani, Nadia, West Bengal 741235</string>
+    <string name="contact"><u>Contact Details</u></string>
+    <string name="dept"><u>Departments</u></string>
+
+    <string name="kly_mail"><u>klymahavidyalaya@gmail.com</u></string>
+    <string name="kly_name"><u>Kalyani Mahavidyalaya</u></string>
+    <string name="kly_web"><u>kalyanimahavidyalaya.ac.in</u></string>
+
+    <string name="cs_desc">Computer Science is one of the highest paying course now-a-days. Currently we take 40 regular students and 5 minority students.</string>
+    <string name="course"><u>Courses</u></string>
+
+</resources>
